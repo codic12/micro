@@ -103,7 +103,6 @@ var bufdefaults = map[string]string{
 	"Alt-c":        "RemoveAllMultiCursors",
 	"Alt-x":        "SkipMultiCursor",
 }
-}
 
 var infodefaults = map[string]string{
 	"Up":             "HistoryUp",
@@ -177,5 +176,4 @@ var infodefaults = map[string]string{
 	"MouseWheelDown": "HistoryDown",
 	"MouseLeft":      "MousePress",
 	"MouseMiddle":    "PastePrimary",
-}
 }
